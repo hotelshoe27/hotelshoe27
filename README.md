@@ -1,5 +1,10 @@
-### Hi there 👋
-물과 같은 사람이 되고 싶습니다💧
+### 반갑습니다👀
+Hello
+I'm currently working on CNU Pattern Recognition Lab in Gwangju, Republic of Korea.
+I'm interested in log analysis, text recognition.
+
+### 물과 같이💧
+
 <!--
 **hotelshoe27/hotelshoe27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
