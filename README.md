@@ -5,6 +5,9 @@ I'm interested in log analysis, text recognition.
 
 ### 물과 같이💧
 
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
 <!--
 **hotelshoe27/hotelshoe27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
