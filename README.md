@@ -1,10 +1,14 @@
 ### 반갑습니다👀
+
 --
+
 Hello
 I'm currently working on CNU Pattern Recognition Lab in Gwangju, Republic of Korea.
 
 I'm interested in log analysis, text recognition.
+
 ---
+
 ### 물과 같이💧
 
 
