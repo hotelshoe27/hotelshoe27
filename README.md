@@ -18,9 +18,6 @@ I'm interested in Data analysis, log anomaly detection, text recognition.
 - 신태호, 김수형, “연합 학습을 활용한 개인 정보 보호가 지원된 텍스트 분류의 효용성 분석,” 2022년 호남 사이버보안콘퍼런스 발표논문집, pp. 200-203, 광주국립아시아문화전당, 2022년 9월. (ICT융합보안)
 - 신태호, 김수형, “연합 학습 기반의 로그 데이터 이상 탐지에 대한 효용성 분석,” 스마트미디어저널, 제 11권 11호 (Under review)
 
----
-
-### Like be Water💧
 
 <!--
 **hotelshoe27/hotelshoe27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
