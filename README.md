@@ -3,7 +3,7 @@
 Hello
 I'm currently working on CNU Pattern Recognition Lab in Gwangju, Republic of Korea.
 
-I'm interested in Data analysis, log analysis and anomaly detection, text recognition.
+I'm interested in Data analysis, log analysis & anomaly detection, text recognition.
 
 ---
 ### My Stack
