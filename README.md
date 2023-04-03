@@ -1,9 +1,9 @@
 ### 반갑습니다👀
 
 Hello
-I'm currently working on CNU Pattern Recognition Lab in Gwangju, Republic of Korea.
+I'm currently working on Samsung hospital(SMC) AI research center, Republic of Korea.
 
-I'm interested in Data analysis, log analysis & anomaly detection, text recognition.
+I'm interested in Data analysis, log analysis & anomaly detection, Medical image analysis, text recognition.
 
 ---
 ### My Stack
