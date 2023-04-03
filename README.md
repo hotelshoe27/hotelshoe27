@@ -14,9 +14,9 @@ I'm interested in Data analysis, log analysis & anomaly detection, text recognit
 
 ---
 ### Publication
-- 신태호, 김수형, “Bi-LSTM을 활용한 국내뉴스 카테고리 분류 모델,” 2022 한국스마트미디어학회 춘계학술대회 발표논문집, pp. 80-81, 한남대학교, 2022년 6월. (ICT융합보안)
-- 신태호, 김수형, “연합 학습을 활용한 개인 정보 보호가 지원된 텍스트 분류의 효용성 분석,” 2022년 호남 사이버보안콘퍼런스 발표논문집, pp. 200-203, 광주국립아시아문화전당, 2022년 9월. (ICT융합보안)
-- 신태호, 김수형, “연합 학습 기반의 로그 데이터 이상 탐지에 대한 효용성 분석,” 스마트미디어저널, 제 11권 11호 (Under review)
+- 신태호, 김수형, “Bi-LSTM을 활용한 국내뉴스 카테고리 분류 모델,” 2022 한국스마트미디어학회 춘계학술대회 발표논문집, pp. 80-81, 한남대학교, 2022년 6월.
+- 신태호, 김수형, “연합 학습을 활용한 개인 정보 보호가 지원된 텍스트 분류의 효용성 분석,” 2022년 호남 사이버보안콘퍼런스 발표논문집, pp. 200-203, 광주국립아시아문화전당, 2022년 9월.
+- Shin, T.-H.; Kim, S.-H. Utility Analysis about Log Data Anomaly Detection Based on Federated Learning. Appl. Sci. 2023, 13, 4495. https://doi.org/10.3390/app13074495
 
 
 <!--
