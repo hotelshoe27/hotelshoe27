@@ -1,7 +1,7 @@
 ### 반갑습니다👀
 
 Hello
-I'm currently working on Samsung Medical Center(SMC) medical AI research center, Republic of Korea.
+I'm currently working on Samsung Medical Center(SMC) AI research center, Republic of Korea.
 
 I'm interested in Data analysis, Medical image analysis, log analysis & anomaly detection, text recognition.
 
