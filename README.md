@@ -1,11 +1,13 @@
 ### 반갑습니다👀
 
 Hello
-I'm currently working on Samsung Medical Center(SMC) AI research center, Republic of Korea.
-
-I'm interested in Data analysis, Medical image analysis, log analysis & anomaly detection, text recognition.
+- 🔭 I’m currently working on Samsung Medical Center(SMC) AI research center, Republic of Korea.
+- 🤔 I’m interested in Medical image analysis, log analysis & anomaly detection, image segmentation.
+- 🌱 I’m currently learning image segmentation based on deep learning.
+- 📫 How to reach me: edensth@gmail.com
 
 ---
+<!--
 ### My Stack
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?&style=flat-square&logo=OpenCV&logoColor=white"/>
@@ -19,7 +21,7 @@ I'm interested in Data analysis, Medical image analysis, log analysis & anomaly 
 - Shin, T.-H.; Kim, S.-H. Utility Analysis about Log Data Anomaly Detection Based on Federated Learning. Appl. Sci. 2023, 13, 4495. https://doi.org/10.3390/app13074495
 - Taeho Shin, Zero Kim, et al., "Development of Deep Learning Based Model for Evaluating histological Activity Using Pathology Images", 한국계산과학공학회 2023년도 춘계학술대회, pp. 14, KISTI, 2023년 5월.
 - Vo, V. T. T., Shin, T. H., Yang, H. J., Kang, S. R., & Kim, S. H. (2024). A Comparison between Centralized and Asynchronous Federated Learning Approaches for Survival Outcome Prediction using Clinical and PET Data from Non-small Cell Lung Cancer Patients. Computer Methods and Programs in Biomedicine, 108104. https://doi.org/10.1016/j.cmpb.2024.108104
-
+-->
 
 <!--
 **hotelshoe27/hotelshoe27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
