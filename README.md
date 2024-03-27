@@ -2,7 +2,7 @@
 
 Hello👋
 
-- 🔭 I’m currently working on Samsung Medical Center(SMC) AI research center, Republic of Korea.
+- 🔭 I’m currently working on AI research center of Samsung Medical Center(SMC) in Republic of Korea.
 - 🤔 I’m interested in Medical image analysis, log analysis & anomaly detection, image segmentation.
 - 🌱 I’m currently learning image segmentation based on deep learning.
 - 📫 How to reach me: edensth@gmail.com
