@@ -3,8 +3,8 @@
 Hello👋
 
 - 🔭 I’m currently working on AI privacy team of Korea Internet & Security Agency(KISA) in Republic of Korea.
-- 🤔 I’m interested in Medical image analysis, log analysis & anomaly detection, image segmentation.
-- 🌱 I’m currently learning image segmentation based on deep learning.
+- 🤔 I’m interested in Personal information protection & AI privacy technology.
+- 🌱 I’m currently learning institutions and policies related Personal information protection in AI.
 - 📫 How to reach me: edensth@gmail.com
 
 <!--
